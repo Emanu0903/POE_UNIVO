@@ -1,0 +1,14 @@
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.exe
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.deps.json
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\refint\OperadoresAritmeticos.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\tareas\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\ref\OperadoresAritmeticos.dll
