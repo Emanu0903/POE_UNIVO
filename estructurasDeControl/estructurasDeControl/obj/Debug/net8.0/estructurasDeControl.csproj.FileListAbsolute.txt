@@ -1,0 +1,14 @@
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\bin\Debug\net8.0\estructurasDeControl.exe
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\bin\Debug\net8.0\estructurasDeControl.deps.json
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\bin\Debug\net8.0\estructurasDeControl.runtimeconfig.json
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\bin\Debug\net8.0\estructurasDeControl.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\bin\Debug\net8.0\estructurasDeControl.pdb
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\estructurasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\estructurasDeControl.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\estructurasDeControl.AssemblyInfo.cs
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\estructurasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\estructurasDeControl.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\refint\estructurasDeControl.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\estructurasDeControl.pdb
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\estructurasDeControl.genruntimeconfig.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\estructurasDeControl\estructurasDeControl\obj\Debug\net8.0\ref\estructurasDeControl.dll
