@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacionFormularioC#", "ValidacionFormularioC#.csproj", "{DF12BA1D-FA5B-4BA9-A996-07D2B4F890DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF12BA1D-FA5B-4BA9-A996-07D2B4F890DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF12BA1D-FA5B-4BA9-A996-07D2B4F890DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF12BA1D-FA5B-4BA9-A996-07D2B4F890DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF12BA1D-FA5B-4BA9-A996-07D2B4F890DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DEEDCE1-693F-45A1-BF71-72520E5A8F32}
+	EndGlobalSection
+EndGlobal

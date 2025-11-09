@@ -1,0 +1,16 @@
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC_.frmValidacion.resources
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC#.csproj.GenerateResource.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC#.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC#.AssemblyInfo.cs
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\bin\Debug\net8.0-windows\ValidacionFormularioC#.exe
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\bin\Debug\net8.0-windows\ValidacionFormularioC#.deps.json
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\bin\Debug\net8.0-windows\ValidacionFormularioC#.runtimeconfig.json
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\bin\Debug\net8.0-windows\ValidacionFormularioC#.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\bin\Debug\net8.0-windows\ValidacionFormularioC#.pdb
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC#.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\refint\ValidacionFormularioC#.dll
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC#.pdb
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ValidacionFormularioC#.genruntimeconfig.cache
+C:\Users\HP\Dropbox\UNIVO_2025_ING.SOFT\CICLO-04\Programacion_orientada_ a_ eventos\proyecto_inventario_poe\ValidacionFormularioC#\obj\Debug\net8.0-windows\ref\ValidacionFormularioC#.dll
